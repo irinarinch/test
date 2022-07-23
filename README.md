@@ -1,3 +1,5 @@
 # Hello, world!
 
-I stusy in Netology
+I study in Netology
+
+new info
